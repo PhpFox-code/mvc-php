@@ -1,0 +1,1 @@
+<h1 style="color: green;">This is a home page</h1>
