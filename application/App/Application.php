@@ -3,6 +3,10 @@
 namespace App;
 use Controller;
 
+if(!defined('THE_PATH')){
+    exit;
+}
+
 class Application {
 
     private $url;

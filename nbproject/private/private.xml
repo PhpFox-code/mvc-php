@@ -5,8 +5,8 @@
         <group>
             <file>file:/G:/vhosts/MVC_skeleton/application/App/Controller.php</file>
             <file>file:/G:/vhosts/MVC_skeleton/application/App/Application.php</file>
+            <file>file:/G:/vhosts/MVC_skeleton/application/config/config.php</file>
             <file>file:/G:/vhosts/MVC_skeleton/application/config/Autoload.php</file>
-            <file>file:/G:/vhosts/MVC_skeleton/.htaccess</file>
             <file>file:/G:/vhosts/MVC_skeleton/application/Controller/TestController.php</file>
             <file>file:/G:/vhosts/MVC_skeleton/index.php</file>
         </group>

@@ -1,6 +1,10 @@
 <?php
 namespace App;
 
+if(!defined('THE_PATH')){
+    exit;
+}
+
 class Controller {
     
     protected $controllerTitle;
@@ -23,4 +27,12 @@ class Controller {
         
     }
     
+    public function partialRender($model = null){
+        
+        if(!$model)
+            $this->view->model = $model;
+        $this->view->renderContent();
+    }
+    
 }
+
