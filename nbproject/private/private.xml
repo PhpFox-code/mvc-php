@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/G:/vhosts/MVC_skeleton/application/App/Controller.php</file>
             <file>file:/G:/vhosts/MVC_skeleton/application/App/Application.php</file>
             <file>file:/G:/vhosts/MVC_skeleton/application/config/Autoload.php</file>
+            <file>file:/G:/vhosts/MVC_skeleton/.htaccess</file>
             <file>file:/G:/vhosts/MVC_skeleton/application/Controller/TestController.php</file>
             <file>file:/G:/vhosts/MVC_skeleton/index.php</file>
         </group>

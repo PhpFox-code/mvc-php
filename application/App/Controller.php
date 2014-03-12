@@ -24,5 +24,3 @@ class Controller {
     }
     
 }
-
-echo 'test';
