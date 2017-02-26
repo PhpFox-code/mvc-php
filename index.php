@@ -9,3 +9,4 @@ require '/application/config/Autoload.php';
 
 //run the application
 $app = new \App\Application();
+echo "App Started";
